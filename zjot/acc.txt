@@ -716,3 +716,8 @@
 2020-03-30-T-23:18:34 buy raspberry pi
 2020-03-31-T-01:24:05 buy food and water.
 2020-03-31-T-13:19:48 -prep-meds, tidy.
+2020-04-11-T-13:31:43 12cof 40cow
+2020-04-11-T-17:53:48 +shower
+2020-04-11-T-22:31:40 chocolate
+2020-04-16-T-12:00:39 +12cof,30cow
+2020-04-16-T-12:01:08 cch and ach gone to grandma. she does not want helper.
