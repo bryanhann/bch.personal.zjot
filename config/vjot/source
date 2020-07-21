@@ -1,2 +1,0 @@
-export VJOT_LOG=$RHINO/raw/voice/voice.acc
-export VJOT_STAGE=$RHINO/raw/voice/__STAGE__

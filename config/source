@@ -1,4 +1,0 @@
-export RHINO_VJOT_LOG=$RHINO/raw/voice/voice.acc
-export RHINO_VJOT_STAGE=$RHINO/raw/voice/__STAGE__
-export RHINO_ZJOT_LOG=$RHINO/raw/keyboard/keyboard.acc
-
